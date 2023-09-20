@@ -12,7 +12,7 @@
 解析xml语言的轻量级库
 
 ## 5.robot_basic_params.h
-机器人的一些基本参数，主要是设置自由度，默认是6
+留一个接口来设置机器人的一些基本参数，目前主要是设置机器人自由度DOF，默认是6
 
 ## 6.symrobotic.cpp\symrobotic.h
 测试文件，忽略
