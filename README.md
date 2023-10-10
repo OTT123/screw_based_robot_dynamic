@@ -1,8 +1,11 @@
 # 编译方法
 ## Windows
 将该工程下载到工作空间文件夹，假设你的eigen路径为DIR，打开shell
+
 `g++ symrobotic.cpp pugixml.cpp my_dynamic.cpp main.cpp -o main -IDIR`
-允许
+
+运行
+
 `./main`
 
 # screw_based_robot_dynamic
