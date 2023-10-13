@@ -13,7 +13,7 @@
 
 # screw_based_robot_dynamic
 ## 1. main.cpp
-提供了一些测试方法
+提供了一些测试方法。给出了如何计算样例机器人动力学参数的例子。
 
 ## 2. my_dynamic.h
 动力学算法头文件，注释都写在这个文件
